@@ -34,6 +34,16 @@ resource-intelligence-ai/
 
 ### 1. Run the Frontend (Artifact)
 Open `App.jsx` as a React artifact in Claude — it works standalone with mock data and calls the Anthropic API directly for AI matching.
+Quick Start
+
+If you want to run the frontend locally:
+
+cd frontend
+npm install      # Install dependencies
+npm run dev      # Start frontend dev server
+Default port: usually http://localhost:3000
+
+Make sure the backend is running for API calls to work.
 
 ### 2. Backend Setup
 

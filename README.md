@@ -39,8 +39,11 @@ Quick Start
 If you want to run the frontend locally:
 
 cd frontend
-npm install      # Install dependencies
-npm run dev      # Start frontend dev server
+
+# Install dependencies
+npm install
+# Start frontend dev server
+npm run dev      
 Default port: usually http://localhost:3000
 
 Make sure the backend is running for API calls to work.
